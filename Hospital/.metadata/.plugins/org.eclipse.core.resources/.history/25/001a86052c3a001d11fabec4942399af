@@ -1,0 +1,13 @@
+package com.db;
+
+public class dbConnect {
+	
+	private Connection conn;
+	
+	public static  getConnection() {
+		
+	}
+	
+	
+
+}
